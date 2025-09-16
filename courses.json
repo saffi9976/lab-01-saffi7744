@@ -1,0 +1,102 @@
+[
+  {
+    "course_id": "CPAN 111",
+    "course_name": "Database Concepts and Design"
+  },
+  {
+    "course_id": "CPAN 113",
+    "course_name": "Fundamentals of JavaScript"
+  },
+  {
+    "course_id": "CPAN 116",
+    "course_name": "Algorithms and Problem Solving"
+  },
+  {
+    "course_id": "CPAN 133",
+    "course_name": "Operating Systems"
+  },
+  {
+    "course_id": "CPAN 134",
+    "course_name": "Web Programming and Design"
+  },
+  {
+    "course_id": "WRIT 120",
+    "course_name": "Technical Reading and Writing Skills"
+  },
+  {
+    "course_id": "CPAN 112",
+    "course_name": "Fundamentals of Numeric Computing"
+  },
+  {
+    "course_id": "CPAN 121",
+    "course_name": "Database Programming"
+  },
+  {
+    "course_id": "CPAN 131",
+    "course_name": "Object-Oriented Programming"
+  },
+  {
+    "course_id": "CPAN 144",
+    "course_name": "Advanced Front-End Programming"
+  },
+  {
+    "course_id": "GNED 101",
+    "course_name": "An Introduction to Arts and Sciences"
+  },
+  {
+    "course_id": "WRIT 220",
+    "course_name": "Technical Workplace Writing Skills"
+  },
+  {
+    "course_id": "CPAN 209",
+    "course_name": "Systems Design"
+  },
+  {
+    "course_id": "CPAN 211",
+    "course_name": "Data Structures and Algorithms"
+  },
+  {
+    "course_id": "CPAN 212",
+    "course_name": "Modern Web Technologies"
+  },
+  {
+    "course_id": "CPAN 213",
+    "course_name": "Cross-Platform Mobile Application Development"
+  },
+  {
+    "course_id": "CPAN 214",
+    "course_name": "High-Level Programming Languages"
+  },
+  {
+    "course_id": "CPAN 224",
+    "course_name": "Application Testing"
+  },
+  {
+    "course_id": "CPAN 225",
+    "course_name": "Principles of Project Management"
+  },
+  {
+    "course_id": "CPAN 226",
+    "course_name": "Network Programming"
+  },
+  {
+    "course_id": "CPAN 227",
+    "course_name": "Advanced Database Programming"
+  },
+  {
+    "course_id": "CPAN 228",
+    "course_name": "Web Application Development"
+  },
+  {
+    "course_id": "WORK 111",
+    "course_name": "Career Path Development"
+  },
+  {
+    "course_id": "CPAN 314",
+    "course_name": "Project Development I"
+  },
+  {
+    "course_id": "CPAN 324",
+    "course_name": "Project Development II"
+  }
+]
